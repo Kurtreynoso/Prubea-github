@@ -22,6 +22,9 @@
                                 <rect key="frame" x="120" y="296" width="134" height="75"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
+                                <connections>
+                                    <action selector="primerButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="a0T-zg-0Tz"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
